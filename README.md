@@ -1,16 +1,10 @@
-Gemini hat gesagt
------------------
-
-Here is the complete, ready-to-copy text for your GitHub repository. Just click the "Copy code" button in the top right corner of the block below and paste it directly into your `README.md` file!
-
-Markdown
 
 ```
-# 🧬 GelAnalyzer Pro
+# 🧬 BandScout
 
 **An open-source, cross-platform 1D gel electrophoresis densitometry and molecular weight analysis tool.**
 
-GelAnalyzer Pro replaces expensive, proprietary lab software with a sleek, modern Python desktop application. It features automated lane and band detection, interactive 1D profiling, biologically accurate point-to-point semi-log molecular weight calibration, and parabolic "smile" correction.
+BandScout replaces expensive, proprietary lab software with a sleek, modern Python desktop application. It features automated lane and band detection, interactive 1D profiling, biologically accurate point-to-point semi-log molecular weight calibration, and parabolic "smile" correction.
 
 ## ✨ Key Features
 * **Automated Computer Vision:** Instantly detect lanes and bands with customizable sensitivity and background subtraction.
@@ -25,7 +19,7 @@ GelAnalyzer Pro replaces expensive, proprietary lab software with a sleek, moder
 
 ## 🛠 Installation
 
-GelAnalyzer Pro is built on Python, PyQt6, and OpenCV. It runs natively on Windows, macOS, and Linux.
+BandScout is built on Python, PyQt6, and OpenCV. It runs natively on Windows, macOS, and Linux.
 
 ### 1. Clone the repository
 ```bash
