@@ -1,12 +1,11 @@
 
-```
-# 🧬 BandScout
+#  BandScout
 
 **An open-source, cross-platform 1D gel electrophoresis densitometry and molecular weight analysis tool.**
 
-BandScout replaces expensive, proprietary lab software with a sleek, modern Python desktop application. It features automated lane and band detection, interactive 1D profiling, biologically accurate point-to-point semi-log molecular weight calibration, and parabolic "smile" correction.
+BandScout features automated lane and band detection, interactive 1D profiling, biologically accurate point-to-point semi-log molecular weight calibration, and parabolic "smile" correction.
 
-## ✨ Key Features
+##  Key Features
 * **Automated Computer Vision:** Instantly detect lanes and bands with customizable sensitivity and background subtraction.
 * **Interactive 1D Profiling:** Side-by-side 2D gel and 1D densitometry graphs with bi-directional highlighting.
 * **Manual Curation:** Seamlessly add, delete, and drag band boundaries to manually adjust Area Under the Curve (AUC) calculations.
@@ -17,7 +16,7 @@ BandScout replaces expensive, proprietary lab software with a sleek, modern Pyth
 
 ---
 
-## 🛠 Installation
+## Installation
 
 BandScout is built on Python, PyQt6, and OpenCV. It runs natively on Windows, macOS, and Linux.
 
@@ -26,7 +25,6 @@ BandScout is built on Python, PyQt6, and OpenCV. It runs natively on Windows, ma
 git clone [https://github.com/YOUR_USERNAME/GelAnalyzerPro.git](https://github.com/YOUR_USERNAME/GelAnalyzerPro.git)
 cd GelAnalyzerPro
 
-```
 
 ### 2\. Create a virtual environment
 
@@ -149,7 +147,7 @@ When you are satisfied with your analysis, click the **"Export to CSV"** button 
 
 * * * * *
 
-🤝 Contributing
+Contributing
 ---------------
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
@@ -158,3 +156,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ----------
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+© 2026 Franz Dietzmeyer
+franz.dietzmeyer@medizin.uni-leipzig.de
